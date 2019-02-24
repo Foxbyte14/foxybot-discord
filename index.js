@@ -30,7 +30,7 @@ bot.on("message", function (message) {
 
 });
 
-bot.login("NTQ5MDI3NzA2NjQyMTA0MzUw.D1N8Cg.9Y_sf1NpZWJDPbbp-MYXfjI5_HE");
+bot.login("Tokin");
 
 
 
