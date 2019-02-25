@@ -30,7 +30,7 @@ bot.on("message", function (message) {
 
 });
 
-bot.login("Tokin");
+client.login(process.env.BOT_TOKEN);
 
 
 
